@@ -1,5 +1,4 @@
 import React from 'react';
-import { AiOutlineHeart, AiOutlineEye } from 'react-icons/ai';
 
 const ProductGrid = () => {
   const products = [
